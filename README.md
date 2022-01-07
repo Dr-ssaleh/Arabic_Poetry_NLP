@@ -1,6 +1,6 @@
 # NLP
 
-Dr-Saleh AL-Farhan
+Dr.Saleh AL-Farhan
 
 ENG. Nasser Alqahtani
 
